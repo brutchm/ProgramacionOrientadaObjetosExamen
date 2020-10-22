@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Vet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../VetLogica/out/artifacts/VetLogica_jar/Vet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

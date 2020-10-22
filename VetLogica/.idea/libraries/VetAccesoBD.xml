@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="VetAccesoBD">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../VetAccesoBD/out/artifacts/VetAccesoBD_jar/VetAccesoBD.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

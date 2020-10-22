@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VetLogica:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VetLogica_jar</output-path>
+    <root id="archive" name="VetLogica.jar">
+      <element id="module-output" name="VetLogica" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../DriverSQL/mysql-connector-java-8.0.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../VetAccesoBD/out/artifacts/VetAccesoBD_jar/VetAccesoBD.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
